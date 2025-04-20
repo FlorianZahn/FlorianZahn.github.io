@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 ## Deploy Instructions
 
-1.  Build and push the project to gh-pages branch
+1.  Build the project and push to the gh-pages branch
 
     ```bash
     npm run deploy
