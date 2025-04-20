@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
 
     [http://localhost:5173/](http://localhost:5173/)
 
-## Deploy instructions
+## Deploy Instructions
 
 1.  Build and push the project to gh-pages branch
 
