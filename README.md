@@ -1,6 +1,6 @@
 # My Projects
 
-[Link to the project page](https://FlorianZahn.github.io./)
+[Link to the project page](https://FlorianZahn.github.io/)
 
 ## Development Instructions
 
