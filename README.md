@@ -9,7 +9,7 @@ To get started with this project, follow these steps:
 1.  Clone the repository
 
     ```bash
-    git clone https://github.com/FlorianZahn/FlorianZahn.github.io.git 
+    git clone https://github.com/FlorianZahn/FlorianZahn.github.io.git
     ```
 
 2.  Clone the repository
@@ -33,11 +33,3 @@ To get started with this project, follow these steps:
 5.  Open your browser and navigate to the following URL:
 
     [http://localhost:5173/](http://localhost:5173/)
-
-## Deploy Instructions
-
-1.  Build the project and push to the gh-pages branch
-
-    ```bash
-    npm run deploy
-    ```
